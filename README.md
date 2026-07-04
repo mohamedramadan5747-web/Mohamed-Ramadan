@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ramadan-a5a794262"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.kaggle.com/mohamedramadansaber"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a>
-  <a href="https://github.com/mohamedramadan5747-web"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="https://mostaql.com/u/MoHaMeD_5747"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a>
+  <a href="https://khamsat.com/user/mohamed_ramadan565"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
 
 ---
