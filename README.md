@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ramadan-a5a794262"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://mostaql.com/u/MoHaMeD_5747"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a>
-  <a href="https://khamsat.com/user/mohamed_ramadan565"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="https://mostaql.com/u/MoHaMeD_5747"><img src="https://img.shields.io/badge/mostaql-%232386C8.svg?&style=for-the-badge&logoColor=white" height=25></a>
+  <a href="https://khamsat.com/user/mohamed_ramadan565"><img src="https://img.shields.io/badge/khamsat-%2300A651.svg?&style=for-the-badge&logo=fiverr&logoColor=white" height=25></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 📊 I'm a **Data Analyst** passionate about turning raw data into clear, actionable insights.
-- 🐍 Currently sharpening my skills in **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.
-- 📈 Interested in **statistics** — correlation, regression, ANOVA, Chi-Square, and bootstrap methods.
-- 🌱 Constantly learning and building projects to apply data analysis in real-world scenarios.
-- 💬 Ask me about data cleaning, exploratory data analysis (EDA), and data visualization.
+- 📊 I'm a **Data Analyst** and a graduate of the Faculty of Commerce, with strong experience turning raw data into insights that help businesses make better decisions.
+- 🧰 Skilled in **Microsoft Excel** (advanced level), **SQL**, **Python**, and **Power BI** for data analysis, reporting, and interactive dashboards.
+- 🧹 Experienced in data cleaning, data modeling, business intelligence reporting, and tracking KPIs.
+- 🎯 Committed to delivering high-quality work, meeting deadlines, and providing practical solutions that add real value to every project.
+- 💼 Available for freelance data analysis work — check out my profiles on **Mostaql** and **Khamsat** above.
 
 ---
 
